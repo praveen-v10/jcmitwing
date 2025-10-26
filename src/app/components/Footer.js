@@ -23,7 +23,7 @@ function Footer() {
 
         {/* Contact Info */}
         <p className="text-center text-lg">
-          Contact us: info@jcmitwing.com | +91 12345 67890
+          Contact us: info@jcmitwing.com | +91 95009 85008
         </p>
 
         {/* Social Icons */}
@@ -61,7 +61,7 @@ function Footer() {
 
         {/* Contact Info */}
         <p className="text-center text-sm">
-          Contact us: info@jcmitwing.com | +91 12345 67890
+          Contact us: info@jcmitwing.com | +91 95009 85008
         </p>
 
         {/* Social Icons */}

@@ -103,7 +103,7 @@ export default function FormContent() {
             வணக்கம், {formData.fullName}!
           </h1>
           <p className="text-xl lg:text-2xl text-gray-700">
-            🙏 புதுவையின் விடியல்! <br /> உங்கள் பயணம் இங்கே தொடங்குகிறது!
+            🙏 புதுவையின் விடியல்! <br /> உங்கள் பயணம் இனிதே தொடங்குகிறது!
           </p>
           <div className="w-full flex justify-center mt-4">
             <Image
@@ -173,8 +173,8 @@ export default function FormContent() {
           >
             <option value="">Constituency / தொகுதி</option>
             <option value="mannadipet">Mannadipet / மாண்ணாடிப்பேட்டை</option>
-            <option value="thirubhuvanai">Thirubhuvanai (SC) / திருபுவனை (SC)</option>
-            <option value="ossudu">Ossudu (SC) / ஒசுது (SC)</option>
+            <option value="thirubhuvanai">Thirubhuvanai / திருபுவனை </option>
+            <option value="ossudu">Ossudu / ஒசுது </option>
             <option value="mangalam">Mangalam / மங்கலம்</option>
             <option value="villianur">Villianur / வில்லியானூர்</option>
             <option value="ozhukarai">Ozhukarai / ஓழுகரை</option>
@@ -192,8 +192,8 @@ export default function FormContent() {
             <option value="mudaliarpet">Mudaliarpet / முதலியார்பேட்டை</option>
             <option value="ariankuppam">Ariankuppam / அரியன்குப்பம்</option>
             <option value="manavely">Manavely / மாணவேலி</option>
-            <option value="embalam">Embalam (SC) / எம்பலம் (SC)</option>
-            <option value="nettapakkam">Nettapakkam (SC) / நெட்டப்பாக்கம் (SC)</option>
+            <option value="embalam">Embalam / எம்பலம் </option>
+            <option value="nettapakkam">Nettapakkam / நெட்டப்பாக்கம் </option>
             <option value="bahour">Bahour / பஹூர்</option>
           </select>
 
